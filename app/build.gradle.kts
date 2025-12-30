@@ -55,4 +55,7 @@ dependencies {
 
     //Glide:
     implementation (libs.glide)
+
+    //Lottie
+    implementation(libs.lottie)
 }

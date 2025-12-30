@@ -107,6 +107,8 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/default_line_space"
+                android:maxLines="1"
+                android:minLines="1"
                 app:layout_constraintEnd_toEndOf="@id/movie_LBL_duration"
                 app:layout_constraintStart_toStartOf="@id/movie_LBL_title"
                 app:layout_constraintTop_toBottomOf="@id/movie_LBL_genres"
